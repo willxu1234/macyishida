@@ -11,7 +11,7 @@
   }
   
   p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Palatino', 'Segoe UI', serif;
     font-size: 0.8em;
   }
 
